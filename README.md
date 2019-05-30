@@ -11,14 +11,13 @@
 bootstrap + Vue
 https://bootstrap-vue.js.org/  
 
-
+◇機能について
 ●ペット登録のフォーム完成させますと、　選んだ種類（猫・犬）のリストから情報が反映されます。
 ●リストの名前のところにリンクを張っており、それぞれの情報が反映されます。
 
+※node js のコマンドで実行させました。
 
-node js のコマンドで実行させました。
-
-参考
+◇参考
 https://cli.vuejs.org/
 https://vuex.vuejs.org/
 https://router.vuejs.org/
