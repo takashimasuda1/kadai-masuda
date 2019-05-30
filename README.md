@@ -16,9 +16,4 @@ https://bootstrap-vue.js.org/
 
 ※node js のコマンドで実行させました。
 
-◇参考
-https://cli.vuejs.org/
-https://vuex.vuejs.org/
-https://router.vuejs.org/
-https://bootstrap-vue.js.org/docs/components/alert
 
