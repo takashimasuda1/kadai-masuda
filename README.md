@@ -7,7 +7,7 @@
 -Vue Router
 -VueX 
 
-◇他
+◇他 componentsは以下を使用しました。
 bootstrap + Vue
 https://bootstrap-vue.js.org/  
 
