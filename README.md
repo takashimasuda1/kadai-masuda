@@ -1,7 +1,7 @@
 # kadai-masuda
 
 
-~~~Vue CLIを使用して、作成しました。~~~~
+~~~Vue CLIで作成しました。~~~~
 
 ◇課題の以下を使用しました。
 -Vue Router
