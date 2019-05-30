@@ -1,4 +1,4 @@
-# automotives-sell
+# pet-adoption
 
 ## Project setup
 ```
